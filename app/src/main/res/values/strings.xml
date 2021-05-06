@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CountdownTimer</string>
+    <string name="start">Start</string>
+    <string name="pause">Pause</string>
+    <string name="delete">Delete</string>
+    <string name="invalid_time">Invalid Time Entry</string>
+    <string name="time_divider">m:s</string>
+</resources>
